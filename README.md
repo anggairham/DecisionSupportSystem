@@ -8,8 +8,8 @@ Anggota Tim Project terdiri dari :
 5. Siti Komariyah       (G.211.16.0000)
 
 Aplikasi yang dibuat dengan PHP versi 7.0.13. Dibuat dengan tujuan untuk mengetahui keputusan yang terbaik menggunakan metode SAW
-(Simple Additive Weighting)
-Fitur yang ada :
-* Grar
+(Simple Additive Weighting). Demo Aplikasi bisa dilihat di sini [AplikasiSAW](https://sawpemrogweb.000webhostapp.com/)
 
-Demo Aplikasi bisa dilihat di sini [AplikasiSAW](https://sawpemrogweb.000webhostapp.com/)
+Fitur yang ada :
+* CRUD untuk Nilai, Kriteria, Alternatif, Rangking
+* Graphic Chart menggunakan Chart.js
