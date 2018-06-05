@@ -17,5 +17,5 @@ Fitur yang ada :
 
 Untuk cara menginstall :
 1. Import file dssSAW.sql ke database anda
-2. lalu edit bagian folder includes/config.php sesuai settingan server anda
+2. lalu edit bagian folder DSS/includes/config.php sesuai settingan server anda
 3. Jalankan aplikasi tersebut
