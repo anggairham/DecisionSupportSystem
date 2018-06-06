@@ -5,7 +5,7 @@ Anggota Tim Project terdiri dari :
 2. Siti Komariyah       (G.211.16.0063)
 3. Achmad Rizalludin    (G.211.16.0067) 
 4. Muin Maulana         (G.211.16.0084) https://github.com/muin21/DecisionSupportSystem
-5. Bagu Bragowo         (G.211.16.0086)
+5. Bagu Bragowo         (G.211.16.0086) https://github.com/bagubragowo/DecisionSupportSystem
 
 
 Aplikasi yang dibuat dengan PHP versi 7.0.13. Dibuat dengan tujuan untuk mengetahui keputusan yang terbaik menggunakan metode SAW
