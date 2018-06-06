@@ -2,7 +2,7 @@
 
 Anggota Tim Project terdiri dari :
 1. Angga Irham Stianto  (G.211.16.0092) https://github.com/Anggairham/DecisionSupportSystem
-2. Siti Komariyah       (G.211.16.0063) 
+2. Siti Komariyah       (G.211.16.0063)
 3. Achmad Rizalludin    (G.211.16.0067) https://github.com/achmadrizall/DecisionSupportSystem
 4. Muin Maulana         (G.211.16.0084) https://github.com/muin21/DecisionSupportSystem
 5. Bagu Bragowo         (G.211.16.0086) https://github.com/bagubragowo/DecisionSupportSystem
