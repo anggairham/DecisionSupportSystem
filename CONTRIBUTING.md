@@ -1,4 +1,4 @@
-# Introduction
+# Contributing
 
 ### Write something nice here!
 
