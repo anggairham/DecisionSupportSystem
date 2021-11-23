@@ -9,7 +9,7 @@ Anggota Tim Project terdiri dari :
 
 
 Aplikasi yang dibuat dengan PHP versi 7.0.13. Dibuat dengan tujuan untuk mengetahui keputusan yang terbaik menggunakan metode SAW
-(Simple Additive Weighting). Demo Aplikasi bisa dilihat di sini [AplikasiSAW](https://sawpemrogweb.000webhostapp.com/)
+(Simple Additive Weighting). Demo Aplikasi bisa dilihat di sini [Demo AplikasiSAW](https://pi4anggairham.ddns.net/dss_saw/)
 
 Fitur yang ada :
 * CRUD untuk Nilai, Kriteria, Alternatif, Rangking
