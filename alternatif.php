@@ -1,7 +1,7 @@
 <?php
 include "header.php";
 include "includes/config.php";
-$query = mysqli_query($koneksi,"SELECT * FROM alternatif");
+$query = mysqli_query($koneksi, "SELECT * FROM alternatif");
 ?>
 
 <br>
@@ -22,14 +22,14 @@ $query = mysqli_query($koneksi,"SELECT * FROM alternatif");
 				<th>Nama Alternatif</th>
 				<th>Hasil Perangkingan</th>
 				<th>Aksi</th>
-			</tr>	
+			</tr>
 		</thead>
 
 <tbody>
 <?php
-$no=1;
-while ($row = mysqli_fetch_array($query)){
-?>
+$no = 1;
+while ($row = mysqli_fetch_array($query)) {
+    ?>
             <tr>
                 <td><?php echo $no++ ?></td>
                 <td><?php echo $row['nama_alternatif'] ?></td>
@@ -50,11 +50,11 @@ while ($row = mysqli_fetch_array($query)){
 				<th>Nama Alternatif</th>
 				<th>Hasil Normalisasi Alternatif</th>
 				<th>Aksi</th>
-			</tr>	
+			</tr>
 		</tfoot>
 	</table>
 </div>
 
-<?php  
+<?php
 include "footer.php";
 ?>
